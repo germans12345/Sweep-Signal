@@ -225,9 +225,5 @@ success.wav
 
 ---
 
-## License
 
-This project is for learning, experimentation, and showcase purposes.
-
-```
 
